@@ -1,0 +1,112 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="charcocottages.com" resolutions="1x" timestamp="1512754303129">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4024583845" ref="index"/>
+    <file name="nomq_index.css" crc="4161432702" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="91b27a25-4fb5-4069-b05f-6ec8c8a65850 copy-crop-u94.jpg" crc="4028004523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u113-6.png" crc="4023906474" ref="index"/>
+    <file name="homeaway1.jpg" crc="419730397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="569e5730-5d18-4f0e-a14c-71ac8348ba46c10-crop-u267.jpg" crc="4130968527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="76c0ebe1-409d-45ec-a57e-709166ae291dc10-crop-u281.jpg" crc="198915215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homeaway-2.svg" crc="4034371234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homeaway-2_poster_.png" crc="4072094451" ref="index"/>
+    <file name="u314-4.png" crc="307325132" ref="index"/>
+    <file name="u349-4.png" crc="4182399751" ref="index"/>
+    <file name="u355-4.png" crc="4091158515" ref="index"/>
+    <file name="airbnb.svg" crc="4206320926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="airbnb_poster_.png" crc="356246146" ref="index"/>
+    <file name="u376-4.png" crc="94915566" ref="index"/>
+    <file name="u382-4.png" crc="94915566" ref="index"/>
+    <file name="u388-4.png" crc="94915566" ref="index"/>
+    <file name="u125-4.png" crc="3894555679" ref="index"/>
+    <file name="02946ca4_original.jpg" crc="3794587133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4fd67323-3ca1-43a0-9bd0-3f97427e3525.jpg" crc="4097925748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8d4a6cf5_original.jpg" crc="67398460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="683e1390_original.jpg" crc="3890295984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23a4a704-94e4-41ce-a99d-a37c306640e1-crop-u552.jpg" crc="18031627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="683e1390_original-crop-u562.jpg" crc="4255557346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4f12b60a_original.jpg" crc="4279851649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0febb0ef-2570-41c5-a5f4-0a81478eb4df 2.jpg" crc="3923063423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="91b27a25-4fb5-4069-b05f-6ec8c8a65850 copy-crop-u942.jpg" crc="178050958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u113-62.png" crc="211886405" ref="index"/>
+    <file name="569e5730-5d18-4f0e-a14c-71ac8348ba46c10-crop-u2672.jpg" crc="4130968527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="76c0ebe1-409d-45ec-a57e-709166ae291dc10-crop-u2812.jpg" crc="3828070414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u314-42.png" crc="4245072106" ref="index"/>
+    <file name="u349-42.png" crc="4290384745" ref="index"/>
+    <file name="u355-42.png" crc="3952992548" ref="index"/>
+    <file name="u376-42.png" crc="4074043594" ref="index"/>
+    <file name="u382-42.png" crc="4074043594" ref="index"/>
+    <file name="u388-42.png" crc="4074043594" ref="index"/>
+    <file name="u125-42.png" crc="374733683" ref="index"/>
+    <file name="02946ca4_original89x120.jpg" crc="4111006457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4fd67323-3ca1-43a0-9bd0-3f97427e352591x121.jpg" crc="3864563167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23a4a704-94e4-41ce-a99d-a37c306640e1-crop-u5522.jpg" crc="3902641867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4f12b60a_original141x106.jpg" crc="274799582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0febb0ef-2570-41c5-a5f4-0a81478eb4df 2320x109.jpg" crc="4128797110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3893226053" seo="true" mt="1512753330451" redirect="true"/>
+</manifest>
